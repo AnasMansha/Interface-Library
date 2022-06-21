@@ -1,0 +1,7 @@
+HOW TO INSALL
+
+1. Copy all the cpp and h files from the folder in your Visual Studio Project Folder (where your source.cpp is located)
+2. Open that folder in file explorer as well as your project in VS. Select all .cpp and .h copied and drag and drop them to your project in VS solution explorer. You can also add them to your project by right clicking "Header Files" and "Souce Files" in VS solution explorer and selecting files respectively.
+3. Use #include"interface.h" in your source.cpp (or any other if you like) file to use the library.
+
+OR you can simply use the load through VS the "menu.sln" inside Sample Program folder. (In case you want to start from scrach)
