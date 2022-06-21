@@ -5,7 +5,9 @@ To donate:
 
 Bank Name: Bank of Punjab
 Account number: 6300246560100018
+
 Branch code: 320
+
 Account title: MUHAMMAD ANAS MANSHA
 
 Jazzcash/Easypaisa: +923070148118 
