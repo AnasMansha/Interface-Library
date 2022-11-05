@@ -9,8 +9,11 @@ Use Useful.exe to see a small application of this library
 
 Donors:
 Muhammad Usman (ITU, Lahore, Pakistan)
+
 Muhammad Affan (ITU, Lahore, Pakistan)
+
 Muhammad Omer Mansoor (ITU, Lahore, Pakistan)
+
 Muhammad Abdullah Nezami (ITU, Lahore, Pakistan)
 
 To donate:
